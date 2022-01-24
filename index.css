@@ -1,0 +1,22 @@
+*{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+body{
+    background-color: aquamarine;
+    width: 100%;
+    text-align: center;
+    padding: 40px;
+}
+div{
+    background-color: rgb(141, 127, 155);
+    width: 50%;
+    height: 300px;
+    margin: auto;
+    
+}
+button{
+    width: 150px;
+    font: bold;
+    font-size: 20px;;
+
+}
